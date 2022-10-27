@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **JavaScript frameworks.**
 
-- 💬 Ask me about **Data Structres & Algorithms**
+- 💬 Ask me about **Data Structures & Algorithms**
 
 - 📫 How to reach me **akash03rai@gmail.com**
 
