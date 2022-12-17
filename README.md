@@ -51,4 +51,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-aka5h&theme=monokai" alt="i-aka5h" /></p>
 
-<a href=""><img alt="Akash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=i-aka5h&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&theme=monokai" /></a>
